@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\ReplaceString\Functional\bin\Debug\netcoreapp3.0\Functional.exe
+C:\Users\admin\source\repos\ReplaceString\Functional\bin\Debug\netcoreapp3.0\Functional.deps.json
+C:\Users\admin\source\repos\ReplaceString\Functional\bin\Debug\netcoreapp3.0\Functional.runtimeconfig.json
+C:\Users\admin\source\repos\ReplaceString\Functional\bin\Debug\netcoreapp3.0\Functional.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ReplaceString\Functional\bin\Debug\netcoreapp3.0\Functional.dll
+C:\Users\admin\source\repos\ReplaceString\Functional\bin\Debug\netcoreapp3.0\Functional.pdb
+C:\Users\admin\source\repos\ReplaceString\Functional\obj\Debug\netcoreapp3.0\Functional.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ReplaceString\Functional\obj\Debug\netcoreapp3.0\Functional.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ReplaceString\Functional\obj\Debug\netcoreapp3.0\Functional.AssemblyInfo.cs
+C:\Users\admin\source\repos\ReplaceString\Functional\obj\Debug\netcoreapp3.0\Functional.dll
+C:\Users\admin\source\repos\ReplaceString\Functional\obj\Debug\netcoreapp3.0\Functional.pdb
