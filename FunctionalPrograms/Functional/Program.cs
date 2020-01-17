@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FunctionalPrograms;
+using System;
 
 namespace Functional
 {
@@ -7,7 +8,7 @@ namespace Functional
         static void Main(string[] args)
         {
 
-            Console.WriteLine("1.Replacestring, 2.headandtail,3.LeapYear,4.Powerof2,5.Harmonic number,6.Factors,7.Gambler,8.prime numbers between 0-100,9.Bubble sort,10.insertion sorting,11.Stopwatch,12.CoupanNumbers,13.TwoDarray,14.Anagram,15.distance,16.Quadratic,17.Monthlypayment,18.TemperatureConversion");
+            Console.WriteLine("1.Replacestring, 2.headandtail,3.LeapYear,4.Powerof2,5.Harmonic number,6.Factors,7.Gambler,8.prime numbers between 0-100,9.Bubble sort,10.insertion sorting,11.Stopwatch,12.CoupanNumbers,13.TwoDarray,14.Anagram,15.distance,16.Quadratic,17.Monthlypayment,18.TemperatureConversion,19.Windchill,20.Triplets");
             int n = int.Parse(Console.ReadLine());
             switch (n)
             {
@@ -84,7 +85,15 @@ namespace Functional
                     break;
                 case 18:
                     TemperatureConversion Temperature = new TemperatureConversion();
-                    Temperature.Temperature();
+                    TemperatureConversion.Temperature();
+                    break;
+                case 19:
+                    WindChill CalculateWindChill = new WindChill();
+                    CalculateWindChill.CalculateWindChill();
+                    break;
+                case 20:
+                    Triplets Tripletclass = new Triplets();
+                    Tripletclass.Tripletclass();
                     break;
 
 
