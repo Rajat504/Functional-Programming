@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\ReplaceString\\Functional\\Functional.csproj",
+      "projectUniqueName": "E:\\Programs\\FunctionalPrograms\\Functional\\Functional.csproj",
       "projectName": "Functional",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\ReplaceString\\Functional\\Functional.csproj",
+      "projectPath": "E:\\Programs\\FunctionalPrograms\\Functional\\Functional.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\ReplaceString\\Functional\\obj\\",
+      "outputPath": "E:\\Programs\\FunctionalPrograms\\Functional\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
