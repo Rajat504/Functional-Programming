@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Functional
 {
-   public class TemperatureConversion
+    class TemperatureConversion
     {
         public static void Temperature()
         {
