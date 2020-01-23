@@ -1,2 +1,2 @@
-# RAJAT504
+# FunctionalProgramming
 STWOY
